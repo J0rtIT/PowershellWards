@@ -95,11 +95,11 @@ D:\libs\desktop\test.ps1
 
  
 
- #Questions
+ ## Questions
 
- 
- 
- ![GitHub Logo](Images/W1/ward1.png)
+ - What happends if you want to run an unsigned script when you don't change the execution policy?
+  
+ ![An image says more than a 1k words](../Images/W1/ward1.png)
 
 
 
